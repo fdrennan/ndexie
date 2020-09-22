@@ -2,3 +2,4 @@
 
 export(withConsoleRedirect)
 importFrom(shiny,insertUI)
+importFrom(utils,capture.output)

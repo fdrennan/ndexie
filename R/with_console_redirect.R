@@ -1,4 +1,8 @@
+#' withConsoleRedirect
+#' @param containerId the id of the container
+#' @param expr an R expression
 #' @importFrom shiny insertUI
+#' @importFrom utils capture.output
 #' @export withConsoleRedirect
 withConsoleRedirect <- function(containerId, expr) {
   message('Running Code')
