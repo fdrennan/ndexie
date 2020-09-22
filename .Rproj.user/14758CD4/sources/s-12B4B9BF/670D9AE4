@@ -1,0 +1,24 @@
+{
+    "id": "670D9AE4",
+    "path": "~/ndex_platform/ndexie/environ_files/docker-compose.yaml",
+    "project_path": "environ_files/docker-compose.yaml",
+    "type": "yaml",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1600739003830.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "cursorPosition": "16,42",
+        "scrollLine": "5"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1600742253,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1600742253962,
+    "read_only": false,
+    "read_only_alternatives": []
+}
