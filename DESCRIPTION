@@ -1,11 +1,11 @@
 Package: ndexie
 Type: Package
 Title: What the Package Does (Title Case)
-Version: 0.1.1
+Version: 0.1.2
 Author: Freddy Drennan
 Maintainer: Freddy Drennan <drennanfreddy@gmail.com>
-Description: Makes my R pretty
-    And that's all it does
+Description: Makes my R pretty and that's all it does
+    Otherwise, idk. Make a PR for me. 
 License: MIT + file LICENSE
 Encoding: UTF-8
 Imports:
