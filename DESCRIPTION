@@ -7,5 +7,7 @@ Maintainer: Freddy Drennan <drennanfreddy@gmail.com>
 Description: Makes my R pretty
 License: MIT + file LICENSE
 Encoding: UTF-8
+Imports:
+    shiny
 LazyData: true
 RoxygenNote: 7.1.1

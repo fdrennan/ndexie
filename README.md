@@ -1,5 +1,11 @@
 # ndexie
 
+```
+library(ndexie)
+
+
+```
+
 Packages:
 #### [environ](https://github.com/fdrennan/environ)
 #### [ndexutils](https://github.com/fdrennan/ndexutils)
